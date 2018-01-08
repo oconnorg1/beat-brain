@@ -1,7 +1,7 @@
-#Ari Klau (Jan 5th, 2018)
-#Steps (and some code) from https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
-#Neural Network for taking a matrix derived from a Fast Fourier Transform and determining whether it
-#is a snare, kick, or hi-hat
+# Ari Klau (Jan 5th, 2018)
+# Steps (and some code) from https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
+# Neural Network for taking a matrix derived from a Fast Fourier Transform and determining whether it
+# is a snare, kick, or hi-hat
 
 import numpy as np
 
